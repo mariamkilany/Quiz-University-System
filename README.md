@@ -1,0 +1,2 @@
+# Quiz-University-System
+This project is made using inlleja IDE and Java programming language. This project includes 5 classes  -UniversityBrain class by using (CRUD) -Student class (student data) -Quiz class (questions data) UniversityServer class (the server side) -clintStudent class (the clint side) the project ask user for his data and the subject code and then display the questions for him in the end calculate the score and send it for the student
